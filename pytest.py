@@ -1,5 +1,6 @@
 #pip install pytest
 #iny sposob robenia testov nie cez triedu
+# ten pytest proste na compe v skole nefunguje, skus doma
 
 import pytest
 from lekcia16 import Kalkulacka
